@@ -1,0 +1,11 @@
+body * {
+    border: 2px solid red;
+}
+
+nav ul {
+    text-align: right;
+}
+
+nav li {
+    display: inline-block;
+}
