@@ -5,13 +5,22 @@ body * {
 
 nav ul {
     text-align: right;
-    padding-top: 12px;
-    padding-right: 10px;
+    margin-top: 14px;
+    margin-right: 20px;
+    margin-bottom: 12px;
 }
 
 nav li {
+    font-size: 13px;
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 6px;
+    vertical-align: middle;
+}
+
+#notif {
+    background-color: aqua;
+    padding: 2px;
+    border-radius: 50%;
 }
 
 #profile {
